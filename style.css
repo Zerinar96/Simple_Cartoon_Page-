@@ -91,6 +91,7 @@ background-size:cover;
   float:left;
   margin:50px;
     transition:.5s;
+  margin-left: 106px;
 }
 .skill:hover
 {
